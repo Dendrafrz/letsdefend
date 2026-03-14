@@ -40,4 +40,4 @@ Each investigation folder in this repository follows a consistent format:
 These writeups are intended for **educational purposes only**. I highly recommend attempting the challenges yourself before consulting these solutions to maximize your learning experience and sharpen your detection instincts.
 
 ---
-**Maintained by:** [@YourUsername]
+** Maintained by: Dendra Fahrezi **
