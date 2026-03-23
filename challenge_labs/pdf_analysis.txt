@@ -1,0 +1,2 @@
+What local directory name would have been targeted by the malware?
+< C:\Documents\ >
