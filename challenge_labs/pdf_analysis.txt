@@ -4,5 +4,8 @@ What would have been the name of the file created by the payload?
 < d0csz1p >
 What file type would this have been if it were created?
 < zip >
+Which external web domain would the malware have attempted to interact with?
+< filebin.net >
+
 
 
