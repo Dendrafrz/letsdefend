@@ -10,6 +10,8 @@ Which HTTP method would it have used to interact with this service?
 < post >
 What is the name of the obfuscation used for the Javascript payload?
 < eval >
+Which tool would have been used for creating the persistence mechanism?
+< wmic >
 
 
 
