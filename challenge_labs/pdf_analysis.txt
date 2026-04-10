@@ -12,6 +12,8 @@ What is the name of the obfuscation used for the Javascript payload?
 < eval >
 Which tool would have been used for creating the persistence mechanism?
 < wmic >
+How often would the persistence be executed once Windows starts? (format: X.X hours)?
+< 2.5 hours >
 
 
 
