@@ -15,7 +15,7 @@ Which tool would have been used for creating the persistence mechanism?
 How often would the persistence be executed once Windows starts? (format: X.X hours)?
 < 2.5 hours >
 Which LOLBin would have been used in the persistence method?
-< 2.5 hours >
+< powerpnt.exe >
 
 
 
