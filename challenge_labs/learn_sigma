@@ -1,3 +1,6 @@
 Which executable file was specifically targeted by this Sigma rule?
 < bitsadmin.exe >
+What command-line option is used to indicate a file transfer in this rule?
+</transfer>
+
 
