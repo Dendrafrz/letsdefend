@@ -2,5 +2,9 @@ Which executable file was specifically targeted by this Sigma rule?
 < bitsadmin.exe >
 What command-line option is used to indicate a file transfer in this rule?
 </transfer>
+What logical expression in the condition field combined the criteria to trigger this rule?
+<selection_img and (selection_cmd or all of selection_cli_*)>
+
+
 
 
