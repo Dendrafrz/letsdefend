@@ -5,3 +5,6 @@
 
 2. Investigate the PCAP file, what is the full URL used by the attacker to create the malicious document?
 < http://ecofiltroform.triciclogo.com/swellheaded.php  >
+
+3. On the malicious website from the previous question, what kind of encoding technique used by the attacker to create the malicious document?
+< base64 >
