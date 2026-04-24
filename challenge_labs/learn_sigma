@@ -9,7 +9,7 @@ What logical expression in the condition field combined the criteria to trigger 
 What specific command-line argument did this rule look for to identify HTTP-based downloads?
 < http >
 
-
-<>
+< >
+< >
 < > 
 
