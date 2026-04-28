@@ -5,12 +5,12 @@ What command-line option is used to indicate a file transfer in this rule?
 What logical expression in the condition field combined the criteria to trigger this rule?
 <selection_img and (selection_cmd or all of selection_cli_*)>
 
-
 What specific command-line argument did this rule look for to identify HTTP-based downloads?
 < http >
 
 < >
 < >
 < > 
+< >
 < >
 < >
