@@ -4,3 +4,5 @@ Attackers use a function to make the malicious VBA macros they have prepared run
 What is the address of the first cell where Excel 4.0 macros will run in the malicious Office document you are analyzing? (Example: {doc1!ab3})
 < doc4!ba7 >
 
+<>
+
