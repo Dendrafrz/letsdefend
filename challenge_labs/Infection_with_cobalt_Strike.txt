@@ -8,3 +8,5 @@
 
 3. On the malicious website from the previous question, what kind of encoding technique used by the attacker to create the malicious document?
 < base64 >
+
+<>
