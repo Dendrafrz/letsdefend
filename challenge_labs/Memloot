@@ -1,6 +1,34 @@
 Identify the suspicious executable running in memory.
 < SpotifySetup.exe >
-<>
-<>
-<>
-<>
+What is the full path of the malicious file?
+<C:\Users\Zifrana\Downloads\SpotifySetup.exe>
+What is the PID of the malicious file?
+<6816>
+When was the malicious file executed?
+(Answer Format: YYYY-MM-DD HH:MM:SS)
+<2025-02-24 10:51:16>
+What is the real name of the malicious file?
+<DarkHav0c>
+What file extension does the ransomware use after encryption?
+<Hav0c>
+Identify the IP address and port the ransomware attempted to communicate with.
+(Answer Format: IP:Port)
+<104.152.52.238:6548>
+What is the PPID of the malicious file?
+<5864>
+Identify the initiating process that executed the malicious binary.
+<explorer.exe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
