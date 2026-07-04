@@ -4,12 +4,6 @@ A comprehensive collection of writeups and forensic analyses for challenges on t
 
 ---
 
-## 📂 Challenge Index
-
-| ID | Challenge Name | Category | Difficulty | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| 001 | [Challenge Name] | [e.g., Network] | Easy | ✅ Solved |
-| 002 | [Challenge Name] | [e.g., Malware] | Medium | 🚧 In Progress |
 
 ---
 
