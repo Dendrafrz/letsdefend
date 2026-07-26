@@ -1,4 +1,4 @@
-Which executable file was specifically targeted by this Sigma rule?
+lWhich executable file was specifically targeted by this Sigma rule?
 < bitsadmin.exe >
 
 What command-line option is used to indicate a file transfer in this rule?
@@ -16,14 +16,4 @@ Which command-line option must be present to create a new transfer using bitsadm
 Which single ATT&CK tactic tag is listed first in this rule?
 <attack.defense-evasion>
 
-<>
-<>
-<>
-<>
-<>
-<>
-<>
-<>
-<>
-<>
-<>
+
